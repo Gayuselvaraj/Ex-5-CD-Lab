@@ -1,7 +1,7 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 ## Name: Gayathri S
 ## Reg no: 212224230073
-# Date:21/05/2026
+# Date:29/05/2026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
